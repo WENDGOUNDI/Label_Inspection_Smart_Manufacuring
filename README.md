@@ -29,4 +29,8 @@ In smart manufacturing, product number correctness on product label is a crucial
   
   - Video
   [screen-capture (3).webm](https://user-images.githubusercontent.com/48753146/228189001-9466648a-a879-4465-bcde-60f2edc9865d.webm)
+  
+  
+  # Notes: 
+  ### You can find the codes in the master branch.
  
